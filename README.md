@@ -103,14 +103,6 @@ This pipeline solves a real problem across industries:
 
 ---
 
-## 📈 Future Improvements
-
-- [ ] Add support for multiple database connections
-- [ ] Implement vector embeddings for smarter schema selection on large DBs
-- [ ] Add query caching for repeated questions
-- [ ] Export results to CSV/Excel
-- [ ] Deploy on Streamlit Cloud for public access
-- [ ] Add authentication for multi-user support
 
 ---
 
