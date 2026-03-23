@@ -1,6 +1,6 @@
 # 🤖 Natural Language to SQL Pipeline
 
-> Ask your database anything in plain English — powered by Claude AI + PostgreSQL
+> Ask your database anything in plain English 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql)
